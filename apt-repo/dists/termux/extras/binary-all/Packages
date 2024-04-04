@@ -1,0 +1,15 @@
+Package: termux-setup-termux
+Version: 1.0
+Architecture: all
+Section: utils
+Priority: important
+Depends: bash, sqlite
+Maintainer: alex-krefting <termuxmaster99@gmail.com>
+Description: An Settuptool for Termux
+Filename: dists/termux/extras/binary-all/termux-setup-termux_v.1.0_all.deb
+Size: 23652
+MD5Sum: 5cc0b7627e61533cfeb52f9c08054f9b
+SHA1: 0602a6275136581759df080e7a0d742c86c90c15
+SHA256: 91f181fe487154d76fac4b1f841b454911dbf933df7df315b40bb19dd0568d03
+SHA512: 443ca892a2e3d9792fbb07d670f4867aaa11922968c25cbfd7200e8da2001cfef5f2943fd74d3ce2d7262aded4696ce87c56f7095d088aa308aa046f5008cd25
+
